@@ -1,0 +1,37 @@
+{
+    "DASHBOARD": {
+        "HEADING_1": "Welcome, First things first...",
+        "SUBHEADING_1": "You can always change them later",
+        "HEADING_2": "Let's set up a home for all your work",
+        "SUBHEADING_2": "You can always create another workspace later.",
+        "HEADING_3": "How are you planning to use Eden?",
+        "SUBHEADING_3": "We'll streamline your setup experience accordingly.",
+        "HEADING_4": "Congratulations,",
+        "SUBHEADING_4": "You have completed onboarding, you can start using Eden!",
+        "FORM":{
+            "NAME": "Full Name",
+            "DISPLAY_NAME": "Display Name",
+            "PH_NAME": "Steve Jobs",
+            "PH_DISPLAY": "Steve",
+            "WS_NAME": "Workspace Name",
+            "WS_URL": "Workspace URL",
+            "PH_WS": "Eden",
+            "PH_WSURL": "Example"
+        },
+        "EXP": {
+            "SINGLE_USER": {
+                "HEADING": "For Myself",
+                "SUBHEADING": "Write better, Think more clearly, Stay organized."
+            },
+            "TEAM": {
+                "HEADING": "With my team",
+                "SUBHEADING": "Wikis, docs, tasks and projects, all in one place."
+            } 
+
+        },
+        "BUTTON": {
+            "CREATE": "Create Workspace",
+            "LAUNCH": "Launch Eden"
+        }
+    }
+}
